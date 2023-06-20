@@ -1,0 +1,22 @@
+.text-badge {
+  padding: .1em .4em;
+  background: var(--bs-dark);
+}
+
+.banner {
+  padding: 2em 1em;
+  text-align: center;
+  background: rgb(35,59,193);
+  border-radius: 1em;
+}
+
+.projects {
+  --bs-gutter-y: 1.5rem;
+}
+
+.projects {
+}
+
+.image1:hover {
+}
+
